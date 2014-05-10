@@ -1,0 +1,21 @@
+{
+  "name": "2014-05-09-prototype",
+  "version": "0.0.0",
+  "authors": [
+    "Troy Gilbert <troy.gilbert@gmail.com>"
+  ],
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": "http://tinyadventures.troygilbert.com/",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "phaser": "~2.0.4"
+  }
+}
