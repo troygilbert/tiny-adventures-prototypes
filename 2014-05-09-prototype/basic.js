@@ -21,7 +21,7 @@ function preload() {
 	game.scale.scaleMode = Phaser.ScaleManager.SHOW_ALL;
 	game.scale.setScreenSize();
 
-	game.load.image('ground_1x1', 'assets/tilemaps/tiles/ground_1x1.png');
+	game.load.image('ground_1x1', 'ground_1x1.png');
 }
 
 function create() {
